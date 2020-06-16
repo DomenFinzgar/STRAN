@@ -8,7 +8,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-paginate=3 # articles per page
+paginate=100 # articles per page
 
 [params]
 	mode="auto" # color-mode → light,dark or auto
@@ -19,18 +19,10 @@ paginate=3 # articles per page
 
 [[params.social]]
 name = "GitHub"
-icon = "github"
+icon = "bandcamp"
 url = "https://github.com/athul/archie"
 
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://github.com/athulcajay/"
 
-[[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
 
 # Main menu Items
 
