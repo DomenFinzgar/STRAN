@@ -2,7 +2,7 @@ baseURL = "https://ll2028ee.netify.com/"
 languageCode = "en-us"
 title = "LL2028EE"
 theme="archie"
-copyright = "© Athul"
+copyright = "© DF"
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
