@@ -1,7 +1,6 @@
 +++
 content = ""
 date = 2020-05-08T01:00:00Z
-draft = true
 tags = []
 title = "Is spiritualism necromancy?"
 
