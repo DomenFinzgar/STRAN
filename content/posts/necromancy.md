@@ -6,6 +6,6 @@ tags = []
 title = "Necromancy"
 
 +++
-{{< bandcamp 3245589928 >}}
+{{< bandcamptrack1 3245589928 >}}
 
 {{< bandcamp 2355128043 >}}
