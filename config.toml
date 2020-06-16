@@ -13,14 +13,14 @@ paginate=100 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark or auto
 	featherIconsCDN=true
-	subtitle = "Deploying process untill 20208"
+	subtitle = "Deploying process untill 2028"
 
 # Social Tags
 
 [[params.social]]
-name = "GitHub"
-icon = "bandcamp"
-url = "https://github.com/athul/archie"
+name = "Bandcamp"
+icon = "music"
+url = "https://salonski.bandcamp.com/"
 
 
 
