@@ -13,7 +13,7 @@ paginate=100 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark or auto
 	featherIconsCDN=true
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "Deploying process untill 20208"
 
 # Social Tags
 
