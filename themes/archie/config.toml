@@ -2,7 +2,7 @@ baseURL = "https://athul.github.io/archie/"
 languageCode = "en-us"
 title = "LL2028EE"
 theme="archie"
-copyright = "© Athul"
+copyright = "© DF"
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
