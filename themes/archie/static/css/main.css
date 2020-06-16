@@ -5,7 +5,7 @@
 --maincolor: red;
 --bordercl:rebeccapurple;
 --callouctcolor:dodgerblue;
---hovercolor:navy;
+--hovercolor:black;
 --darkMaincolor: #50fa7b;
 }
 html {
@@ -23,7 +23,7 @@ body{
 }
 
 ::selection {
-  background: var(--maincolor);
+  background: var(--hovercolor);
   color: #fff;
 }
 
