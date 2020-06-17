@@ -13,7 +13,7 @@ paginate=100 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark or auto
 	featherIconsCDN=true
-	subtitle = "Deploying process untill 2028"
+	subtitle = "Deploying process until 2028"
 
 # Social Tags
 
