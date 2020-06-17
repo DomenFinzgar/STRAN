@@ -1,6 +1,6 @@
 +++
 date = 2020-03-13T00:00:00Z
-tags = ["visual"]
+tags = ["visuals"]
 title = "Spaceship"
 
 +++
