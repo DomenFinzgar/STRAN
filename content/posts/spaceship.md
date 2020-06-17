@@ -1,6 +1,5 @@
 +++
 date = 2020-03-13T00:00:00Z
-draft = true
 tags = ["visual"]
 title = "Spaceship"
 
@@ -9,6 +8,6 @@ title = "Spaceship"
 
 The topography was used as a spaceship body, re-interpretation of the famous [MicroProse](https://en.wikipedia.org/wiki/MicroProse) space scene on the moon.
 
-![](/uploads/a1400842029_10.jpg)
+![spaceship](/uploads/a1400842029_10.jpg "spaceship")
 
 Spaceship, bitmap, 2020
