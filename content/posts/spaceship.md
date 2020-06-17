@@ -8,6 +8,6 @@ title = "Spaceship"
 
 The topography was used as a spaceship body, re-interpretation of the famous [MicroProse](https://en.wikipedia.org/wiki/MicroProse) space scene on the moon.
 
-{{< figure src="![](https://f4.bcbits.com/img/a1400842029_10.jpg)" title="Spaceship" >}}
+{{< figure src="https://f4.bcbits.com/img/a1400842029_10.jpg" title="Spaceship" >}}
 
 Spaceship, bitmap, 2020
