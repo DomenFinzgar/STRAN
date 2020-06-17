@@ -10,4 +10,4 @@ The topography was used as a spaceship body, re-interpretation of the famous [Mi
 
 _Spaceship, bitmap, 2020_
 
-{{< figure src="https://f4.bcbits.com/img/a1400842029_10.jpg">}}
+[{{< figure src="https://f4.bcbits.com/img/a1400842029_10.jpg">}}](https://f4.bcbits.com/img/a1400842029_10.jpg)
