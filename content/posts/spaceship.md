@@ -5,10 +5,10 @@ tags = ["visual"]
 title = "Spaceship"
 
 +++
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/MartuljskaSkupina-Imena1.jpg/500px-MartuljskaSkupina-Imena1.jpg)
+**Špik** is a mountain in the [Slovenian Julian Alps](https://en.wikipedia.org/wiki/Julian_Alps). Its summit is at 2,472 m (8110 feet) above sea level. The mountain's name is a cognate of the English "spike," derived from its pointed shape. Together with surrounding mountains known as the "[Martuljek Group](https://sl.wikipedia.org/wiki/Martulj%C5%A1ka_skupina#/media/Slika:MartuljskaSkupina-Imena1.jpg)", it can't be missed when one passes by on a busy road towards Kranjska Gora. Dramatic topography is feeding imagination of every curious mind that wants to elevate.
 
-**Špik** is a mountain in the [Slovenian Julian Alps](https://en.wikipedia.org/wiki/Julian_Alps). Its summit is at 2,472 m (8110 feet) above sea level. The mountain's name is a cognate of the English "spike," derived from its pointed shape. Together with surrounding mountains called as the "Martuljek Group", it can't be missed when one passes by on a buisy road towards Kranjska Gora. dramatic topography is feeding imagination to every curious mind that wants to elevate.  
-
-The topography was used as an input to the spaceship
+The topography was used as a spaceship body, re-interpretation of the famous [MicroProse](https://en.wikipedia.org/wiki/MicroProse) space scene on the moon.
 
 ![](/uploads/a1400842029_10.jpg)
+
+Spaceship, bitmap, 2020
