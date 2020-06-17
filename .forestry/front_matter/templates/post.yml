@@ -21,5 +21,6 @@ fields:
   default: []
   label: Tags
 pages:
+- content/about.md
 - content/posts/is-glossolalia-telepathy.md
 - content/posts/necromancy.md
