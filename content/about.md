@@ -1,6 +1,5 @@
 +++
-date = ""
-draft = true
+date = 2020-06-16T23:00:00Z
 tags = []
 title = "About"
 
