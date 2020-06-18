@@ -1,36 +1,28 @@
-baseURL = "https://athul.github.io/archie/"
+baseURL = "https://ll2028ee.netify.com/"
 languageCode = "en-us"
 title = "LL2028EE"
 theme="archie"
-copyright = "© Athul"
+copyright = "© DF"
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-paginate=3 # articles per page
+paginate=100 # articles per page
 
 [params]
 	mode="auto" # color-mode → light,dark or auto
 	featherIconsCDN=true
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "Deploying process until 2028"
 
 # Social Tags
 
 [[params.social]]
-name = "GitHub"
-icon = "github"
-url = "https://github.com/athul/archie"
+name = "Bandcamp"
+icon = "music"
+url = "https://salonski.bandcamp.com/"
 
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://github.com/athulcajay/"
 
-[[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
 
 # Main menu Items
 
