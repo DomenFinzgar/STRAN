@@ -4,6 +4,7 @@ tags = ["sound recording"]
 title = "A REPORT: Birds in the morning"
 
 +++
+
 According to the [RSPB]( "https://ww2.rspb.org.uk/birds-and-wildlife/bird-and-wildlife-guides/ask-an-expert/previous/morningsong.aspx"), Birds use song and calls to communicate with other birds for a multitude of reasons.
 
 The dawn chorus may dip in intensity during the breeding season, mainly during the short mating periods and again when the young are being cared for. There simply isn’t enough time in the day to defend or mark their patch and tend to the young! In the UK during high summer, the dawn chorus starts as early as 4 AM.
@@ -43,3 +44,5 @@ To say goodbye - here is the sound of a small bird taking off…
 …here is the sound of a medium bird taking off…
 
 …and finally, here is the sound of a [big bird](https://drive.google.com/uc?id=1Sd0KEokMbJ1vasNcZmNItNImabbjdbht "big bird") taking off…
+
+"A REPORT: Birds in the morning", field recording, 2020
