@@ -15,7 +15,7 @@ Hmm. These following sounds were recorded at 3:15 in Edinburgh.
 
 3:45 AM: Due to the fog, visibility is not great. See figure 1. However, I am lucky. I spotted a bird and am trying to isolate its singing from the others.
 
-[thumbnail?id=1qTb00XxORqB5DxGzHtglGjDQgHVBvLhe](https://drive.google.com/thumbnail?id=1qTb00XxORqB5DxGzHtglGjDQgHVBvLhe "thumbnail?id=1qTb00XxORqB5DxGzHtglGjDQgHVBvLhe")
+[uc?id=1qTb00XxORqB5DxGzHtglGjDQgHVBvLhe](https://drive.google.com/uc?id=1qTb00XxORqB5DxGzHtglGjDQgHVBvLhe "uc?id=1qTb00XxORqB5DxGzHtglGjDQgHVBvLhe")
 
 3:55 AM: For the diehard birdwatchers, I present an unprocessed sound of another bird.
 
