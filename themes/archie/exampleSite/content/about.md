@@ -1,28 +1,64 @@
 +++
+date = 2020-06-16T23:00:00Z
+tags = []
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+
 +++
-
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Everything starts with the phase one. The year is 2028. Deployment of process initiated. Ideas are forming.
 
 
+```go
+
+\##################
+
+\#RECORD ALL
+
+\###################
+
+library(reaper) # DAW
+
+library(sounddevices) # recorder
+
+library(FR-RX) #accordion
+
+library(inputdevices) #microphones
+
+library(basictoolkit) #draw, draw, draw
+
+setwd('C:/Users/d/Documents/LL2028EE/record')
+
+surrounding<- read.wav("farigaig_et_al.wav", header=F)
+
+map = openmap(c(lat= 60.12,   lon= -135.30),
+
+              c(lat= 37.30,   lon= -119.09),type= "esri", zoom=5)
+
+OSMap <- autoplot(map.latlon, asp=1)  +
+
+  labs(title = "Location of SS provenances", x = "Longitude", y="Latitude")+
+
+  #geom_label(data=bias.dtf, aes(x=LON ,y=LAT, label=ID, fontface=7), hjust=1, vjust=0, size=4) +
+
+  geom_point(data=farigaig, aes(Long,Lat, color=State), size=4, shape=19)
+
+  #scale_fill_gradientn(colours = rainbow(10)) +
+
+ 
+
+ plot(OSMap, asp=1)
+
+\##################
+
+\#QCI <-scratch that!
+
+\###################
+
+\##################
+
+\#WASHINGTON
+
+\###################
+
+
+```
 
