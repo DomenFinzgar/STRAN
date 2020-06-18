@@ -6,7 +6,7 @@ title = "A REPORT: Birds in the morning"
 +++
 {{< soundcloud 842323348 >}}
 
-According to the [RSPB]( "https://www.rspb.org.uk/"), Birds use song and calls to communicate with other birds for a multitude of reasons.
+According to the [RSPB]( https://www.rspb.org.uk/), Birds use song and calls to communicate with other birds for a multitude of reasons.
 
 The dawn chorus may dip in intensity during the breeding season, mainly during the short mating periods and again when the young are being cared for. There simply isn’t enough time in the day to defend or mark their patch and tend to the young! In the UK during high summer, the dawn chorus starts as early as 4 AM.
 
