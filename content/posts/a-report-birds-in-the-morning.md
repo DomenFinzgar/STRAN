@@ -18,13 +18,13 @@ Hmm. These following sounds were recorded at 3:15 in Edinburgh.
 
 3:55 AM: For the diehard birdwatchers, I present an unprocessed sound of another bird.
 
-4:15 AM: A short break from the birds in the morning report. Descent to the Dunsapie Loch. Not everything is about birds there. A small animal, either a stoat or a weasel is swimming in the lake. Now that is a heavy breather. Never heard that one before.
+4:15 AM: A short break from the birds in the morning report. Descent to the [Dunsapie Loch](https://drive.google.com/uc?id=1b46RePHjxg5yS0-FPK2UYITrpr75_DK3 "Dunsapie Loch"). Not everything is about birds there. A small animal, either a stoat or a weasel is swimming in the lake. Now that is a heavy breather. Never heard that one before.
 
 4:30 AM: I’m not too fond of all bird species. Stalking a pair of crows is never a good idea. They spotted me, and now they are circling around my head! Not for the fainthearted.
 
 4:45 AM: At the Duddingston apple orchard I finally meet a bird with some song variety. For the sake of my ornithological reputation, I hope those aren’t multiple birds.
 
-5:15 AM: I think birds like the orchard. But not as much as the Duddingston lake. Here is a couple of birds walking in the water and on some random rocks.
+5:15 AM: I think birds like the orchard. But not as much as the Duddingston lake. Here is a couple of birds [walking in the water](https://drive.google.com/uc?id=1UpBS-jf7ZJ7V8nE5i2bjrkbLOuywZpW5 "walking in the water") and on some random rocks.
 
 5:20 AM: A second short break from the birds in the morning report. This is a 5-second recording of a stream of water dripping into the lake.
 
@@ -44,4 +44,5 @@ To say goodbye - here is the sound of a small bird taking off…
 
 …here is the sound of a medium bird taking off…
 
-…and finally, here is the sound of a big bird taking off…
+…and finally, here is the sound of a [big bird](https://drive.google.com/uc?id=1Sd0KEokMbJ1vasNcZmNItNImabbjdbht "big bird")  taking off…
+
