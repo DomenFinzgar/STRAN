@@ -1,6 +1,5 @@
 +++
 date = 2020-06-17T23:30:00Z
-draft = true
 tags = ["sound recording"]
 title = "A REPORT: Birds in the morning"
 
@@ -13,9 +12,9 @@ Hmm. These following sounds were recorded at 3:15 in Edinburgh.
 
 3:30 AM: I am not alone. Voices! I hide in the thicket.
 
-3:45 AM: Due to the fog, visibility is not great. See figure 1. However, I am lucky. I spotted a bird and am trying to isolate its singing from the others.
+3:45 AM: Due to the fog, visibility is not great. See [uc?id=1qTb00XxORqB5DxGzHtglGjDQgHVBvLhe](https://drive.google.com/uc?id=1qTb00XxORqB5DxGzHtglGjDQgHVBvLhe "Figure 1"). However, I am lucky. I spotted a bird and am trying to isolate its singing from the others.
 
-[uc?id=1qTb00XxORqB5DxGzHtglGjDQgHVBvLhe](https://drive.google.com/uc?id=1qTb00XxORqB5DxGzHtglGjDQgHVBvLhe "uc?id=1qTb00XxORqB5DxGzHtglGjDQgHVBvLhe")
+
 
 3:55 AM: For the diehard birdwatchers, I present an unprocessed sound of another bird.
 
