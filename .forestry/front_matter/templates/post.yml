@@ -22,6 +22,7 @@ fields:
   label: Tags
 pages:
 - content/about.md
+- content/posts/a-report-birds-in-the-morning.md
 - content/posts/is-glossolalia-telepathy.md
 - content/posts/necromancy.md
 - content/posts/spaceship.md
