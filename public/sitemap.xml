@@ -3,26 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-06-16T21:35:49+01:00</lastmod>
+    <loc>https://ll2028ee.netify.com/posts/a-report-birds-in-the-morning/</loc>
+    <lastmod>2020-06-17T23:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2020-06-16T21:35:49+01:00</lastmod>
+    <loc>https://ll2028ee.netify.com/</loc>
+    <lastmod>2020-06-17T23:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2020-06-16T21:35:49+01:00</lastmod>
+    <loc>https://ll2028ee.netify.com/posts/</loc>
+    <lastmod>2020-06-17T23:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://ll2028ee.netify.com/tags/sound-recording/</loc>
+    <lastmod>2020-06-17T23:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ll2028ee.netify.com/tags/</loc>
+    <lastmod>2020-06-17T23:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ll2028ee.netify.com/about/</loc>
+    <lastmod>2020-06-16T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ll2028ee.netify.com/posts/is-glossolalia-telepathy/</loc>
+    <lastmod>2020-06-12T03:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ll2028ee.netify.com/tags/music/</loc>
+    <lastmod>2020-06-12T03:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ll2028ee.netify.com/posts/necromancy/</loc>
+    <lastmod>2020-05-08T01:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ll2028ee.netify.com/posts/spaceship/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ll2028ee.netify.com/tags/visuals/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ll2028ee.netify.com/categories/</loc>
   </url>
   
 </urlset>

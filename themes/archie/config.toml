@@ -1,0 +1,47 @@
+baseURL = "https://ll2028ee.netify.com/"
+languageCode = "en-us"
+title = "LL2028EE"
+theme="archie"
+copyright = "© DF"
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate=100 # articles per page
+
+[params]
+	mode="auto" # color-mode → light,dark or auto
+	featherIconsCDN=true
+	subtitle = "Deploying process until 2028"
+
+# Social Tags
+
+[[params.social]]
+name = "Bandcamp"
+icon = "music"
+url = "https://salonski.bandcamp.com/"
+
+
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4

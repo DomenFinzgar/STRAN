@@ -2,13 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on LL2028EE</title>
-    <link>http://example.org/tags/</link>
+    <link>https://ll2028ee.netify.com/tags/</link>
     <description>Recent content in Tags on LL2028EE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© DF</copyright>
+    <lastBuildDate>Wed, 17 Jun 2020 23:30:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ll2028ee.netify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>sound recording</title>
+      <link>https://ll2028ee.netify.com/tags/sound-recording/</link>
+      <pubDate>Wed, 17 Jun 2020 23:30:00 +0000</pubDate>
+      
+      <guid>https://ll2028ee.netify.com/tags/sound-recording/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://ll2028ee.netify.com/tags/music/</link>
+      <pubDate>Fri, 12 Jun 2020 03:38:00 +0000</pubDate>
+      
+      <guid>https://ll2028ee.netify.com/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visuals</title>
+      <link>https://ll2028ee.netify.com/tags/visuals/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ll2028ee.netify.com/tags/visuals/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

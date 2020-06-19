@@ -2,22 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on LL2028EE</title>
-    <link>http://example.org/posts/</link>
+    <link>https://ll2028ee.netify.com/posts/</link>
     <description>Recent content in Posts on LL2028EE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2020 21:35:49 +0100</lastBuildDate>
+    <copyright>© DF</copyright>
+    <lastBuildDate>Wed, 17 Jun 2020 23:30:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ll2028ee.netify.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Tue, 16 Jun 2020 21:35:49 +0100</pubDate>
+      <title>A REPORT: Birds in the morning</title>
+      <link>https://ll2028ee.netify.com/posts/a-report-birds-in-the-morning/</link>
+      <pubDate>Wed, 17 Jun 2020 23:30:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://ll2028ee.netify.com/posts/a-report-birds-in-the-morning/</guid>
+      <description>According to the RSPB, Birds use song and calls to communicate with other birds for a multitude of reasons.
+The dawn chorus may dip in intensity during the breeding season, mainly during the short mating periods and again when the young are being cared for. There simply isn’t enough time in the day to defend or mark their patch and tend to the young! In the UK during high summer, the dawn chorus starts as early as 4 AM.</description>
+    </item>
+    
+    <item>
+      <title>Is Glossolalia Telepathy?</title>
+      <link>https://ll2028ee.netify.com/posts/is-glossolalia-telepathy/</link>
+      <pubDate>Fri, 12 Jun 2020 03:38:00 +0000</pubDate>
+      
+      <guid>https://ll2028ee.netify.com/posts/is-glossolalia-telepathy/</guid>
+      <description>Captains room. 04:38 AM: Using glossolalia to contact CS in Canada. Lots of interference from the Japanese. Target reached. Could not remove the noises. The conversation lasted for over 7 min. That is something. Cloudy weather outside, light rain, strong winds. Cabin barely isolated. One can hear birds singing even at the North sea. Must be that time of year. Plenty of Raum and plenty of Zeit.
+Telepathy, music, 2020</description>
+    </item>
+    
+    <item>
+      <title>Is Spiritualism Necromancy?</title>
+      <link>https://ll2028ee.netify.com/posts/necromancy/</link>
+      <pubDate>Fri, 08 May 2020 01:00:00 +0000</pubDate>
+      
+      <guid>https://ll2028ee.netify.com/posts/necromancy/</guid>
+      <description>“Paris in the fall, the last months of the year, at the end of the millennium. The city holds many memories for me, of cafes, of music, of love, and of death.”
+After this rather famous quote, the music of the late Barrington Pheloung starts looming over the Notre-Dame gargoyle. I was just turning seven when I heard it for the first time, and since then the melody stuck with me and set my view on film composition.</description>
+    </item>
+    
+    <item>
+      <title>Spaceship</title>
+      <link>https://ll2028ee.netify.com/posts/spaceship/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ll2028ee.netify.com/posts/spaceship/</guid>
+      <description>Špik is a mountain in the Slovenian Julian Alps. Its summit is at 2,472 m (8110 feet) above sea level. The mountain&amp;rsquo;s name is a cognate of the English &amp;ldquo;spike,&amp;rdquo; derived from its pointed shape. Together with surrounding mountains known as the &amp;ldquo;Martuljek Group&amp;rdquo;, it can&amp;rsquo;t be missed when one passes by on a busy road towards Kranjska Gora. Dramatic topography is feeding imagination of every curious mind that wants to elevate.</description>
     </item>
     
   </channel>
