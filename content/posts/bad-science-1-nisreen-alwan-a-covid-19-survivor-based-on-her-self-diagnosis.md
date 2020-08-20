@@ -1,6 +1,5 @@
 +++
 date = 2020-08-15T23:00:00Z
-draft = true
 tags = []
 title = "BAD SCIENCE #1: Nisreen Alwan, A Covid-19 survivor based on her self diagnosis"
 
