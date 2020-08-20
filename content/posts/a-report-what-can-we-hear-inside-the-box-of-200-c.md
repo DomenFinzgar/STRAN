@@ -1,6 +1,5 @@
 +++
 date = 2020-08-17T23:00:00Z
-draft = true
 tags = ["sound-recording", "science"]
 title = "A REPORT: What can we hear inside the box of -200°C?"
 
