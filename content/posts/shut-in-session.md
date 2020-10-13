@@ -1,6 +1,5 @@
 +++
 date = 2020-10-04T23:00:00Z
-draft = true
 tags = []
 title = "Shut-in-session"
 
