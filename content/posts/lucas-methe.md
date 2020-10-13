@@ -1,6 +1,5 @@
 +++
 date = 2020-10-12T23:00:00Z
-draft = true
 tags = ["visuals"]
 title = "Lucas Methe"
 
