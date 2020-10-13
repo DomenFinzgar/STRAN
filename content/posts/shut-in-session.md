@@ -1,6 +1,6 @@
 +++
 date = 2020-10-04T23:00:00Z
-tags = []
+tags = ["music"]
 title = "Shut-in-session"
 
 +++
