@@ -23,4 +23,4 @@ You can alternatively support the release by buying the online, generic (yea, no
 
 Let’s make this a successful lift-off! Share! See you soon!
 
-Cosmonaut SLN Domen![](/uploads/index.jpg)
+Cosmonaut SLN Domen
