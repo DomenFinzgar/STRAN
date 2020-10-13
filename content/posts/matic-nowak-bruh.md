@@ -1,6 +1,6 @@
 +++
 date = 2020-09-30T23:00:00Z
-tags = []
+tags = ["visuals"]
 title = "Matic Nowak: bruh"
 
 +++
