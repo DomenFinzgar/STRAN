@@ -5,3 +5,7 @@ tags = []
 title = "Men at work: Saint-Esprit, Paris"
 
 +++
+
+{{< soundcloud 945716020>}}
+
+![](/uploads/paris2.jpg)
