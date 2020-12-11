@@ -9,4 +9,4 @@ Church of the Holy Spirit ([Saint-Esprit](https://en.wikipedia.org/wiki/Saint-Es
 
 {{< soundcloud 945716020>}}
 
-![](/uploads/paris2.jpg)
+[![](/uploads/paris2.jpg)](https://ll2028ee.netlify.app/uploads/paris2.jpg)
