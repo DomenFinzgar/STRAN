@@ -1,6 +1,6 @@
 +++
 date = 2020-12-08T00:00:00Z
-tags = []
+tags = ["sound-recording"]
 title = "Men at work: Saint-Esprit, Paris"
 
 +++
